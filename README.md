@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Sarim Khan (aka Sam or brave sam) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+Of+Artificial+Inteligence+%26;Cyber+Security+Engineering+(CSEAI);Compatative+Programmer."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+Of+Artificial+Inteligence+%26;Cyber+Security+Engineering+(CSEAI);Android+Developer."></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/).
 - :nerd_face: Always `learning new things`.
 - 	:herb:I am also a developer of some famous discord bot [Rexz](https://discord.com/api/oauth2/authorize?client_id=856741116912861276&permissions=8&scope=bot), [Rose](https://discord.com/api/oauth2/authorize?client_id=856741116912861276&permissions=8&scope=bot), [Legion](https://discord.com/api/oauth2/authorize?client_id=856741116912861276&permissions=8&scope=bot).
-- 	:deciduous_tree: I am working on making a web `Dashboard` and a documentation website for `RexZ`.
+- 	:deciduous_tree: I am working on new andriod app.
 
 <br>
 
