@@ -1,3 +1,5 @@
+
+<img src="https://media1.tenor.com/images/294063b20b7bf9fc40b3cfb44f91215d/tenor.gif?itemid=16859964" alt="...."/>
 <h1 align="center">Hi, I'm Sarim Khan (aka Sam or Brave Sam) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+Of+Artificial+Intelligence+%26;Cyber+Security+Engineering+(CSEAI);Android+Developer."></a>
