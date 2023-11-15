@@ -81,7 +81,10 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  [![Brave Sam's Activity Graph](https://activity-graph.herokuapp.com/graph?username=brave-sam&custom_title=Brave%20Sam's%20Contribution%20Graph&theme=react-dark)](https://github.com/brave-sam)
+  <a href="https://github.com/brave-sam">
+  <img alt="Brave Sam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brave-sam&custom_title=Brave%20Sam's%20Contribution%20Graph&theme=react-dark" />
+</a>
+
 
 </details>
 
